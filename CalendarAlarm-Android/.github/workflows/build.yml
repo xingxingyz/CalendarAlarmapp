@@ -54,4 +54,4 @@ jobs:
           - 设置任意时间闹钟
           - 调用系统闹钟，稳定可靠
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}# Force change
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
