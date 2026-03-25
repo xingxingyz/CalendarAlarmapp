@@ -126,3 +126,4 @@ adb install app/build/outputs/apk/debug/app-debug.apk
 3. 你电脑上有 Android Studio 吗？
 
 我可以根据你的情况给出最适合的安装方案！
+Build test
